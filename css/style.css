@@ -1,0 +1,64 @@
+:root{
+	--color-amarillo: #FFFF00;
+}
+
+
+body{
+	font-size: 14px;}
+header{
+	background-color: #000;
+	position: relative;
+	width: 100%;
+	padding: 10px 0;
+}
+
+.btn-amarillo { background-color: var(--color-amarillo);
+	color: #000;
+	padding: 20px, 40px;
+	font-size: 30px;
+	font-weight: 900px;
+	letter-spacing: 1px;}
+
+#hero{
+	background-image: url("../img/bg-hero.jpg");
+	
+}
+
+#hero h6{
+	color: #FFFFFF;
+}
+
+#hero h5{
+	color: #FFFFFF;
+}
+
+#hero h3{
+	color: #FFFFFF;
+}
+
+#hero h1{
+	color: #FFFFFF;
+}
+
+
+#features h1{
+	text-align: center;
+	padding-top: 30px;
+}
+
+#features{
+margin-top: 30px;
+margin-bottom: 100px;
+}
+
+p{
+	font-size: 10px;
+}
+
+footer{
+	
+	background-color: #191919;
+	color: #AAA;
+	padding: 30px 0;
+}
+
